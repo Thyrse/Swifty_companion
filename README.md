@@ -18,10 +18,8 @@ You must have Android Studio installed and run a virtual device from inside.
 
 ## Some screenshots
 
-<p>
+<p align="center">
   <img height="550" src="https://i.imgur.com/M8AWxxH.png">
   <img height="550" src="https://i.imgur.com/k7vqrxs.png">
-</p>
-<p align="center">
-  <img height="550" src="https://i.imgur.com/8DW4O3C.png">
+    <img height="550" src="https://i.imgur.com/8DW4O3C.png">
 </p>
