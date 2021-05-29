@@ -20,4 +20,4 @@ You must have Android Studio installed and run a virtual device from inside.
 
 ![Homepage](https://i.imgur.com/8noDQeA.png)
 ![Errorpage](https://i.imgur.com/DJWEsPZ.png)
-![Profilepage](https://i.imgur.com/BbvzFyp.png)
+![Profilepage](https://i.imgur.com/8DW4O3C.png)
