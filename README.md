@@ -21,5 +21,5 @@ You must have Android Studio installed and run a virtual device from inside.
 ![Homepage](https://i.imgur.com/M8AWxxH.png)
 ![Errorpage](https://i.imgur.com/k7vqrxs.png)
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/8DW4O3C.png">
+  <img src="https://i.imgur.com/8DW4O3C.png">
 </p>
